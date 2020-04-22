@@ -25,7 +25,7 @@ input[type=text] {
     background-repeat: no-repeat;
     padding-left: 40px;
     transition: width 0.4s ease-in-out;
-    border-bottom: 2px solid red;
+    border-bottom: 2px solid rgb(238, 33, 33);
   }
   input[type=text]:focus {
     width: 500px;
