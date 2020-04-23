@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://octodex.github.com/images/readme.png)
+![todo list image](https://octodex.github.com/images/readme.png)
 
 
 
